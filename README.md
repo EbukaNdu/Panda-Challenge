@@ -1,1 +1,12 @@
 # Panda-Challenge
+
+Summary of Analysis:
+In this challenge we combined and looked through two data series of 39170 students in 15 different schools and analysized their test scores in math and reading to see what the average scores were in the whole district and in each schools. With the test score we broke it down to the percentage of students that passed math, reading, and overall both combined. Even went in further to break down our data by breaking down the scores by grade. We also looked at the size of the schools and the spending in comparision to the scores which got me to draw these two conlusions.
+One, the effect of School Size on Performance. Upon comparing the scores based on the school sizes, I observed that smaller schools had higher overall passing rates compared to larger schools. Schools with fewer than 1000 students ("Small") consistently displayed higher overall passing percentages than larger schools. With this data it suggests that smaller school sizes have a more conducive environment for academic success, possibly due to smaller class sizes and more personalized attention.
+
+Two, the impact of Spending per Student on Performance. Analyzing the schools based on spending per student showed interesting insights into the relationship between financial resources and academic achievement. Opposite of what I expectated, schools with lower spending per student exhibited higher overall passing rates compared to schools with higher spending. This indicates that factors other than financial resources, such as teaching quality community support, etc... may play a more significant role in determining school performance.
+
+In conclusion, while factors like school size and spending per student can provide valuable insights into educational outcomes, they should be interpreted alongside other qualitative factors to gain a comprehensive understanding of school performance. Further exploration into these variables and their interactions could help with insite on what interventions are needed to improve educational outcomes for all students.
+
+
+In this challenge i got help from chatgpt for the pd.cut code as i was getting an error (TypeError: '<' not supported between instances of 'int' and 'str' and ValueError: Unable to parse string "$628.00" at position 0 so...) as well as double checking my work to make sure I covered all the requirements of the challenge after hours of watching class recordings and working on this challenge LOL.
