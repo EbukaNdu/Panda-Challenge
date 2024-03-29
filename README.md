@@ -1,4 +1,4 @@
-# Panda-Challenge analysis and conclusion
+#Panda-Challenge analysis and conclusion
 
 Summary of Analysis:
 In this challenge we combined and looked through two data series of 39170 students in 15 different schools and analysized their test scores in math and reading to see what the average scores were in the whole district and in each schools. With the test score we broke it down to the percentage of students that passed math, reading, and overall both combined. Even went in further to break down our data by breaking down the scores by grade. We also looked at the size of the schools and the spending in comparision to the scores which got me to draw these two conlusions.
